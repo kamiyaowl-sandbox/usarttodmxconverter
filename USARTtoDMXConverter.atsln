@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "USARTtoDMXConverter", "USARTtoDMXConverter\USARTtoDMXConverter.cppproj", "{7FFD7F43-4110-4529-900A-7C5E7878486D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FFD7F43-4110-4529-900A-7C5E7878486D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{7FFD7F43-4110-4529-900A-7C5E7878486D}.Debug|AVR.Build.0 = Debug|AVR
+		{7FFD7F43-4110-4529-900A-7C5E7878486D}.Release|AVR.ActiveCfg = Release|AVR
+		{7FFD7F43-4110-4529-900A-7C5E7878486D}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
